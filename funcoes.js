@@ -1,3 +1,5 @@
+
+
 // // Tipos de funçoes em JavaScript
 
 // // Função declarativa(tradicional)
